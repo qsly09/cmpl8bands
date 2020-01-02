@@ -1,15 +1,8 @@
 
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
 	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
   	
-	<title>Image Comparison Slider</title>
-</head>
-<body>
 	</br>
 	<figure class="cd-image-container">
 	<div><b style="color:black"> This page is to illustrate the alignment of Landsat 8 Cirrus Band and Optical Bands (e.g., Red, Green, and Blue) for clouds. There are a total of 12 examples. We randomly selected them from the Landsat 8 data with cloud cover > 50% over the word (random dates and random locations) (Figure 1); and for each image we showed the central subset with 1241 pixels X 584 pixels (to fit the size of the commonly used screen). We observed most of clouds (including cirrus clouds and non-cirrus clouds) have very slight (and even none) displacements between different bands.</b>
@@ -208,5 +201,4 @@
 <script src="js/jquery-2.1.1.js"></script>
 <script src="js/jquery.mobile.custom.min.js"></script> <!-- Resource jQuery -->
 <script src="js/main.js"></script> <!-- Resource jQuery -->
-</body>
 
